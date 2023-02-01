@@ -10,7 +10,7 @@ At the end of this module you should be able to:
 
 
 ## Materials
-1. The _./docs/DataVisualization.mlx file describes some of the most common types of graphics used in neuroscience publications: line plots, bar graphs, violin plots, histograms, raster plots and PSTHs. 
+1. The `./docs/DataVisualization.mlx` file describes some of the most common types of graphics used in neuroscience publications: line plots, bar graphs, violin plots, histograms, raster plots and PSTHs. 
 1. The [MoreGraphicsTools.pdf](./docs/MoreGraphicsTools.pdf) describes less common graphics such as polar plots and 3d graphics, and also describes  how to export images of publication quality. 
 1. There are several packages on GitHub that help produce quality graphics. For instance, a package dedicated to [violin plots](https://github.com/bastibe/Violinplot-Matlab.git) or an even more extensive tool called [gramm](https://github.com/piermorel/gramm). Have a look at their documentation, clone them to your machine, and use them throughout this course and for your future projects.
 
