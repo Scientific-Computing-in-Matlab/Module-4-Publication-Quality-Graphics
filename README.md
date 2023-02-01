@@ -12,7 +12,7 @@ At the end of this module you should be able to:
 ## Materials
 1. The _./docs/DataVisualization.mlx file describes some of the most common types of graphics used in neuroscience publications: line plots, bar graphs, violin plots, histograms, raster plots and PSTHs. 
 1. The [MoreGraphicsTools.pdf](./docs/MoreGraphicsTools.pdf) describes less common graphics such as polar plots and 3d graphics, and also describes  how to export images of publication quality. 
-1. There are several packages on GitHub that help produce quality graphics. For instance, a package dedicated to [violin plots](https://github.com/bastibe/Violinplot-Matlab.git) or an even more extensive tool called [gramm](https://github.com/piermorel/gramm). Have a look at their documentation, clone them to your machine, and use them throughout this course.
+1. There are several packages on GitHub that help produce quality graphics. For instance, a package dedicated to [violin plots](https://github.com/bastibe/Violinplot-Matlab.git) or an even more extensive tool called [gramm](https://github.com/piermorel/gramm). Have a look at their documentation, clone them to your machine, and use them throughout this course and for your future projects.
 
 ## Assignments
 The assignment for this week is to prepare a figure for publication in the Journal of Neuroscience. Rather than using your own data/visualization, you have to reproduce a specific, already published panel from a figure.  Note that you should not redo any analysis; this is an exercise to master the details of graphics in Matlab.  You should recreate the figure based on the values/settings/fonts/colors that you extract (or estimate) from the published figure.
