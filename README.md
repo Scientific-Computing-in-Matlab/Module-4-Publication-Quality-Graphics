@@ -24,7 +24,8 @@ Follow these steps:
 Note that you should only reproduce panel D.
 1. Download [GrabIt](https://www.mathworks.com/matlabcentral/fileexchange/7173-grabit) from the Mathworks File Exchange and use it to extract the locations of the data points and other markers from the example figure. Store these numbers in a .mat file, and add it to the ./data folder of this repository. 
 1. Edit `./code/reproduceFigure5D .m` to create a script that reads the data you extracted with GrabIt and then reproduces Panel D.  Everything has to match the figure and the instructions for authors from the Journal of Neuroscience. This includes Fonts  (Arial), Fontsizes (10), and printed figure size, [as documented here](https://www.jneurosci.org/content/information-authors#preparing_a_manuscript). (Tip: print the figure as well as your reproduction to check that they really match).
-1. The script should save a PNG output format file to the `./docs` folder 
-1. Check that your script follows the Matlab style guide, uses meaningful variable names and has appropriate documentation both at the top and inline with the code. 
-1. Add the data, PNG figure, and any code you wrote to the repository, commit, push, and issue a pull-request. 
+1. The built-in `annotation` function can come in handy; especially when combined with the `./code/ds2nfu.m` function in the repository. 
+3. The script should save a PNG output format file to the `./docs` folder 
+4. Check that your script follows the Matlab style guide, uses meaningful variable names and has appropriate documentation both at the top and inline with the code. 
+5. Add the data, PNG figure, and any code you wrote to the repository, commit, push, and issue a pull-request. 
 
